@@ -7,7 +7,7 @@
     "require": {
         "php": "^7.3",
         "ext-json": "*",
-        "friendsofsymfony/elastica-bundle": "^5.1",
+        "friendsofsymfony/elastica-bundle": "^5.1|^6.0",
         "ruflin/elastica": "^6.1",
         "sylius/sylius": "^1.8",
         "nelmio/cors-bundle": "^1.5",
